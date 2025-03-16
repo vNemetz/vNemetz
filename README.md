@@ -1,5 +1,13 @@
-## Computer Engineering Undergraduate
+## Software Engineer | Computer Engineering Undergraduate
 
+💬 My name is Vinícius Nemetz Grabovski, I'm a Software Engineer & a Computer Engineering undergraduate at UTFPR (Technological Federal University of Paraná), Brazil.
+🌱 I've developed several projects in the last years using the most recent technologies in the market.
+⚡ I have a solid base in programming, data structures and algorithms.
+🤠 I've been programming in OOP, procedimental and functional paradigms.
+
+Technologies I use:
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--
 **vNemetz/vNemetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
