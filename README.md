@@ -1,4 +1,4 @@
-## Software Engineer | Computer Engineering Undergraduate
+## Software Developer | Computer Engineering Undergraduate
 
 <br> 💬 My name is Vinícius Nemetz Grabovski, I'm a Software Engineer & Computer Engineering undergraduate at UTFPR (Technological Federal University of Paraná), Brazil.
 <br> 🌱 I've developed several projects in the last years using the most recent technologies in the market.
